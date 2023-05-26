@@ -2,7 +2,7 @@
 
 Gamae Introductions:
 ![1685111545051](https://github.com/Zinaaan/chutes-and-ladders/assets/39329676/52acb385-4fe9-411d-8f55-569f6ccd7da3)
-![image](https://github.com/Zinaaan/chutes-and-ladders/assets/39329676/1c5147c8-60de-4290-b451-7dd8eaa4eea7)
+![image](https://github.com/Zinaaan/chutes-and-ladders/assets/39329676/8eff6033-5207-4f4e-b182-bf0563c30c60)
 ![image](https://github.com/Zinaaan/chutes-and-ladders/assets/39329676/a16c524e-422d-481e-9db8-573631de2aea)
 ![image](https://github.com/Zinaaan/chutes-and-ladders/assets/39329676/8d49e3ab-78bb-4a2c-82b5-597ea44abae7)
 
