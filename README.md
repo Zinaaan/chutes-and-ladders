@@ -12,9 +12,9 @@
 6. Allow adding a new player or delete an existing player during the game playing
 
 ## Design patterns used:
-1. Policy pattern and Factory pattern, injecting the Bean of game rules, rolling rules, turning rules, etc. along with the process of spring initializing by integrating with spring
-2. Builder pattern, using builder pattern to ensure that complicated process of game building become more concise and specific.
-3. Observer pattern (pub-sub model), allow each participant noticing the game process and other players action. Using Spring ApplicationEventPublisherAware as a register, publish events along with the process of spring initializing as well as register as the lister by `@GameListener` annotation and detecting by SpringAOP.
+1. **Policy pattern and Factory pattern**, injecting the Bean of game rules, rolling rules, turning rules, etc. along with the process of spring initializing by integrating with spring
+2. **Builder pattern**, using builder pattern to ensure that complicated process of game building become more concise and specific.
+3. **Observer pattern (pub-sub model)**, allow each participant noticing the game process and other players action. Using Spring ApplicationEventPublisherAware as a register, publish events along with the process of spring initializing as well as register as the lister by `@GameListener` annotation and detecting by SpringAOP.
 
 ## Tests:
-Comprehensively unit test and integration testing.
+Comprehensively **unit testing** and **integration testing**.
